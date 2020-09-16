@@ -131,6 +131,5 @@ var_dump(StringsBodnariuc::addslashesBodnariuc());
 var_dump(StringsBodnariuc::trimBodnariuc());
 var_dump(StringsBodnariuc::ucfirstBodnariuc());
 var_dump(StringsBodnariuc::ucwordsBodnariuc());
-// gbz122
 ?>
 
